@@ -22,15 +22,17 @@ Angular of React daarentegen zijn geen talen, maar een JavaScript framework en e
 
 Javascript:
 
-//AANPASSE?: JavaScript is een programmeer- of scripttaal die gebruik maakt van zogenoemde 'first-class functions'. Dat wil zeggen dat functies in JavaScript verwerkt worden als een gewone variabele. Zo'n functie kan dus, met andere woorden, als argument meegegeven of geretourneerd worden en kan in een variabele opgeslagen worden. (https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript wordt 'Just-In-Time' gecompileerd. Deze JIT compilatie zorgt ervoor dat enkel de code die nodig is, gecompileerd zal worden. Dit zorgt onder andere voor minder geheugenverbruik. https://helloacm.com/benefits-of-jit-compilation/
+JavaScript is een programmeer- of scripttaal die gebruik maakt van zogenoemde 'first-class functions'. Dat wil zeggen dat functies in JavaScript verwerkt worden als een gewone variabele. Zo'n functie kan dus, met andere woorden, als argument meegegeven of geretourneerd worden en kan in een variabele opgeslagen worden. JavaScript is welgekend om zijn toepassingen in webapplicaties, maar het wordt ook gebruikt in andere omgevingen zoals Adobe Acrobat en Node.js. \autocite{Alexiou2017}
 
-//AANPASSEN: JavaScript is welgekend om zijn toepassingen in webapplicaties, maar het wordt ook gebruikt in andere omgevingen zoals Adobe Acrobat en Node.js. In Adobe Acrobat kan JavaScript gebruikt worden om gemakkelijk PDF-bestand aan te passen. Het staat toe om objecten, methoden en eigenschappen te implementeren waarmee de bestanden aangepast kunnen worden. https://www.adobe.com/devnet/acrobat/javascript.html Node.js maakt gebruik van Chrome's V8 JavaScript engine en staat developers toe om servergebaseerde en netwerkapplicaties te maken. https://nodejs.org/en/
+JavaScript wordt 'Just-In-Time' gecompileerd. Deze JIT compilatie zorgt ervoor dat JavaScript sneller runt door de code die uitgevoerd wordt te bekijken en veel gebruikte code paden geoptimaliseerd wordt. Dit zorgt voor een veelvoudig performantere uitvoering van JavaScript. \autocite{Clark2017}
+
+In Adobe Acrobat\footnote{https://www.adobe.com/devnet/acrobat/javascript.html} kan JavaScript gebruikt worden om gemakkelijk PDF-bestand aan te passen. Het staat toe om objecten, methoden en eigenschappen te implementeren waarmee de bestanden aangepast kunnen worden. Node.js\footnote{https://nodejs.org/en/} maakt gebruik van Chrome's V8 JavaScript engine en staat developers toe om servergebaseerde en netwerkapplicaties te maken.
 
 Geschiedenis van JavaScript:
 
-De ontwikkelaars van de Netscape browser, Netscape Communications, wilden een taal ontwikkelen die webpagina's dynamischer kon maken. Dus begon de ontwikkeling Mocha, een simpele en dynamische scripttaal die leek op Java. In mei 1995 werd Mocha geïntegreerd in de Netscape browser. Kort daarna ging Mocha door twee naamsveranderingen. Eerst werd het gewijzigd naar LiveScript en uiteindelijk, in december 1995, werd de naam 'JavaScript' bedacht. Het idee hierachter was dat JavaScript bedoeld was voor kleine taken in de browser, terwijl Java eerder bedoeld was voor professionele ontwikkelaars om webcomponenten te maken. https://auth0.com/blog/a-brief-history-of-javascript/
+De ontwikkelaars van de Netscape browser, Netscape Communications, wilden een taal ontwikkelen die webpagina's dynamischer kon maken. Dus begon de ontwikkeling Mocha, een simpele en dynamische scripttaal die leek op Java. In mei 1995 werd Mocha geïntegreerd in de Netscape browser. Kort daarna ging Mocha door twee naamsveranderingen. Eerst werd het gewijzigd naar LiveScript en uiteindelijk, in december 1995, werd de naam 'JavaScript' bedacht. Het idee hierachter was dat JavaScript bedoeld was voor kleine taken in de browser, terwijl Java eerder bedoeld was voor professionele ontwikkelaars om webcomponenten te maken. \autocite{Peyrott2017}
 
-De eerste grote doorslag van JavaScript kwam er toen ECMA besloot om een normalisering te maken van JavaScript. ECMA is een brancheorganisatie en hun doel is om informatie en communicatietechnologieën te normaliseren. In juni 1997 werd de eerste officiële versie uitgebracht als ECMA-262. Deze normalisatie was belangrijk, want het opende JavaScript naar het publiek, waardoor meer mensen in contact kwamen met de scripttaal. Omwille van handelsmerkredenen kon ECMA de naam JavaScript niet gebruiken. Na overleg werd besloten om de normalisatie ECMAScript te noemen. JavaScript is tegenwoordig de commerciële naam van ECMAScript. https://auth0.com/blog/a-brief-history-of-javascript/ECMAScript--JavaScript-as-a-standard
+De eerste grote doorslag van JavaScript kwam er toen ECMA besloot om een normalisering te maken van JavaScript. ECMA is een brancheorganisatie en hun doel is om informatie en communicatietechnologieën te normaliseren. In juni 1997 werd de eerste officiële versie uitgebracht als ECMA-262. Deze normalisatie was belangrijk, want het opende JavaScript naar het publiek, waardoor meer mensen in contact kwamen met de scripttaal. Omwille van handelsmerkredenen kon ECMA de naam JavaScript niet gebruiken. Na overleg werd besloten om de normalisatie ECMAScript te noemen. JavaScript is tegenwoordig de commerciële naam van ECMAScript.\autocite{Peyrott2017}
 
 Werking van JavaScript:
 
@@ -54,7 +56,9 @@ Angular kan gezien worden als een volwaardig MVC\footnote{Model View Controller}
 
 React, aan de andere kant, is een library met als doel ontwikkelaars te helpen met het bouwen van User Interfaces. De structuur van deze UI's worden voorgesteld als een boom waarbij de knopen componenten zijn. Een component bestaat uit zowel HTML als JavaScript die de logica beschrijft om deze te tonen. \autocite{Baer2018}
 
-Elke component is eigenlijk een JavaScript functie. Deze retourneert code 
+Elke component is eigenlijk een JavaScript functie. Deze retourneert code, deze code stelt de visuele representatie van de component voor. Deze code is wordt vertaald naar een taal genoemd JSX. JSX lijkt op HTML maar deze werkt binnen JavaScript, wat HTML niet doet. De functies worden in een bepaalde volgorde aangeroepen, waarop het resultaat dan samengevoegd wordt en getoond wordt aan de gebruiker. Op deze manier wordt een pagina gebouwd met React.  \autocite{Domes2017}
+
+
 
 
 
