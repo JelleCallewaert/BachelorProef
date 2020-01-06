@@ -1,0 +1,57 @@
+% Encoding: UTF-8
+
+@Online{Schlothauer2019,
+  author    = {Schlothauer, Sarah},
+  title     = {React steadily grows, while Angular maintains enterprise hold},
+  date      = {2019-03-12},
+  url       = {https://jaxenter.com/react-angular-enterprise-156725.html}
+}
+
+@Online{Eng2016,
+  author    = {Eng, Richard Kenneth},
+  title     = {The top 10 things wrong with JavaScript},
+  date      = {2016-01-26},
+  url       = {https://medium.com/javascript-non-grata/the-top-10-things-wrong-with-javascript-58f440d6b3d8},
+  timestamp = {2016.02.14},
+}
+
+@Online{Garbadge2018,
+  author    = {Garbadge, Michael J.},
+  title     = {Top 3 most popular programming languages in 2018 (and their annual salaries)},
+  date      = {2018-12-30},
+  url       = {https://hackernoon.com/top-3-most-popular-programming-languages-in-2018-and-their-annual-salaries-51b4a7354e06},
+  timestamp = {2018.02.14},
+}
+
+@Online{Ari2018,
+  author    = {Ari, Dler},
+  title     = {A comparison between angular and react and their core languages},
+  date      = {2018-09-12},
+  url       = {https://medium.freecodecamp.org/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76},
+  urldate   = {2019-04-03},
+  timestamp = {2018.02.14},
+}
+
+@Online{Chand2019,
+  author = {Chand, Swatee},
+  title  = {What Is React? – Unveil The Magic Of Interactive UI With React},
+  year   = {2019},
+  date   = {2019-10-13},
+  url    = {https://www.edureka.co/blog/what-is-react/#3},
+}
+
+@online{Bodrov-Krukowski2018,
+    author = {Bodrov-Krukowski, Ilya},
+    title = {Angular Introduction: What It Is, and Why You Should Use It},
+    date = {2018-03-22},
+    url = {https://www.sitepoint.com/angular-introduction/},
+}
+
+@Online{Test2019,
+  author = {Test, Test},
+  title  = {Wat een test},
+  date   = {2019-10-13},
+  url    = {https://test.com},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

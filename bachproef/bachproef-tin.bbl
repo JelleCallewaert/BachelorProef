@@ -1,0 +1,1349 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Angular2019a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c31c335ef37283c451b18ba0dd317de1}{%
+           family={Angular},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{fullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{bibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorbibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authornamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorfullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Architecture overview}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://angular.io/guide/architecture
+      \endverb
+      \verb{url}
+      \verb https://angular.io/guide/architecture
+      \endverb
+    \endentry
+    \entry{Angular2019c}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c31c335ef37283c451b18ba0dd317de1}{%
+           family={Angular},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{fullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{bibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorbibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authornamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorfullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Component}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://angular.io/api/core/Component
+      \endverb
+      \verb{url}
+      \verb https://angular.io/api/core/Component
+      \endverb
+    \endentry
+    \entry{Angular2019e}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c31c335ef37283c451b18ba0dd317de1}{%
+           family={Angular},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{fullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{bibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorbibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authornamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorfullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dependency Injection in Angular}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://angular.io/guide/dependency-injection
+      \endverb
+      \verb{url}
+      \verb https://angular.io/guide/dependency-injection
+      \endverb
+    \endentry
+    \entry{Angular2019b}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c31c335ef37283c451b18ba0dd317de1}{%
+           family={Angular},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{fullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{bibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorbibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authornamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorfullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to modules}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://angular.io/guide/architecture-modules
+      \endverb
+      \verb{url}
+      \verb https://angular.io/guide/architecture-modules
+      \endverb
+    \endentry
+    \entry{Angular2019d}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c31c335ef37283c451b18ba0dd317de1}{%
+           family={Angular},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{fullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{bibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorbibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authornamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorfullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to services and dependency injection}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://angular.io/guide/architecture-services
+      \endverb
+      \verb{url}
+      \verb https://angular.io/guide/architecture-services
+      \endverb
+    \endentry
+    \entry{Ari2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5f41bb2c26070e24d0187e1ec6ea49c9}{%
+           family={Ari},
+           familyi={A\bibinitperiod},
+           given={Dler},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5f41bb2c26070e24d0187e1ec6ea49c9}
+      \strng{fullhash}{5f41bb2c26070e24d0187e1ec6ea49c9}
+      \strng{bibnamehash}{5f41bb2c26070e24d0187e1ec6ea49c9}
+      \strng{authorbibnamehash}{5f41bb2c26070e24d0187e1ec6ea49c9}
+      \strng{authornamehash}{5f41bb2c26070e24d0187e1ec6ea49c9}
+      \strng{authorfullhash}{5f41bb2c26070e24d0187e1ec6ea49c9}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{9}
+      \field{title}{A comparison between angular and react and their core languages}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.freecodecamp.org/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76
+      \endverb
+      \verb{url}
+      \verb https://medium.freecodecamp.org/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76
+      \endverb
+    \endentry
+    \entry{Baer2018}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=dbb2647e434364894987225567381dcb}{%
+           family={Baer},
+           familyi={B\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Sebastopol, California, United States}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media, Inc}%
+      }
+      \strng{namehash}{dbb2647e434364894987225567381dcb}
+      \strng{fullhash}{dbb2647e434364894987225567381dcb}
+      \strng{bibnamehash}{dbb2647e434364894987225567381dcb}
+      \strng{authorbibnamehash}{dbb2647e434364894987225567381dcb}
+      \strng{authornamehash}{dbb2647e434364894987225567381dcb}
+      \strng{authorfullhash}{dbb2647e434364894987225567381dcb}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is React and why it matters}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{Bodrov-Krukowski2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5b72d0a71890cec0686dd21a417416e7}{%
+           family={Bodrov-Krukowski},
+           familyi={B\bibinithyphendelim K\bibinitperiod},
+           given={Ilya},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b72d0a71890cec0686dd21a417416e7}
+      \strng{fullhash}{5b72d0a71890cec0686dd21a417416e7}
+      \strng{bibnamehash}{5b72d0a71890cec0686dd21a417416e7}
+      \strng{authorbibnamehash}{5b72d0a71890cec0686dd21a417416e7}
+      \strng{authornamehash}{5b72d0a71890cec0686dd21a417416e7}
+      \strng{authorfullhash}{5b72d0a71890cec0686dd21a417416e7}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{month}{3}
+      \field{title}{Angular Introduction: What It Is, and Why You Should Use It}
+      \field{urlday}{13}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sitepoint.com/angular-introduction/
+      \endverb
+      \verb{url}
+      \verb https://www.sitepoint.com/angular-introduction/
+      \endverb
+    \endentry
+    \entry{Chand2019}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cb66bfd9ce935095b00a1825ceac2956}{%
+           family={Chand},
+           familyi={C\bibinitperiod},
+           given={Swatee},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cb66bfd9ce935095b00a1825ceac2956}
+      \strng{fullhash}{cb66bfd9ce935095b00a1825ceac2956}
+      \strng{bibnamehash}{cb66bfd9ce935095b00a1825ceac2956}
+      \strng{authorbibnamehash}{cb66bfd9ce935095b00a1825ceac2956}
+      \strng{authornamehash}{cb66bfd9ce935095b00a1825ceac2956}
+      \strng{authorfullhash}{cb66bfd9ce935095b00a1825ceac2956}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{month}{10}
+      \field{title}{What Is React? – Unveil The Magic Of Interactive UI With React}
+      \field{urlday}{13}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.edureka.co/blog/what-is-react/#3
+      \endverb
+      \verb{url}
+      \verb https://www.edureka.co/blog/what-is-react/#3
+      \endverb
+    \endentry
+    \entry{Coulman2015}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d3478d46a7c02f20fb239cfebae08265}{%
+           family={Coulman},
+           familyi={C\bibinitperiod},
+           given={Randy},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d3478d46a7c02f20fb239cfebae08265}
+      \strng{fullhash}{d3478d46a7c02f20fb239cfebae08265}
+      \strng{bibnamehash}{d3478d46a7c02f20fb239cfebae08265}
+      \strng{authorbibnamehash}{d3478d46a7c02f20fb239cfebae08265}
+      \strng{authornamehash}{d3478d46a7c02f20fb239cfebae08265}
+      \strng{authorfullhash}{d3478d46a7c02f20fb239cfebae08265}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{month}{2}
+      \field{title}{JavaScript Framework Size}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://randycoulman.com/blog/2015/02/17/javascript-framework-size/
+      \endverb
+      \verb{url}
+      \verb https://randycoulman.com/blog/2015/02/17/javascript-framework-size/
+      \endverb
+    \endentry
+    \entry{Eng2016}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=67ceb52d3dc21a5d4914882eac26c8a6}{%
+           family={Eng},
+           familyi={E\bibinitperiod},
+           given={Richard\bibnamedelima Kenneth},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{67ceb52d3dc21a5d4914882eac26c8a6}
+      \strng{fullhash}{67ceb52d3dc21a5d4914882eac26c8a6}
+      \strng{bibnamehash}{67ceb52d3dc21a5d4914882eac26c8a6}
+      \strng{authorbibnamehash}{67ceb52d3dc21a5d4914882eac26c8a6}
+      \strng{authornamehash}{67ceb52d3dc21a5d4914882eac26c8a6}
+      \strng{authorfullhash}{67ceb52d3dc21a5d4914882eac26c8a6}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{1}
+      \field{title}{The top 10 things wrong with JavaScript}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/javascript-non-grata/the-top-10-things-wrong-with-javascript-58f440d6b3d8
+      \endverb
+      \verb{url}
+      \verb https://medium.com/javascript-non-grata/the-top-10-things-wrong-with-javascript-58f440d6b3d8
+      \endverb
+    \endentry
+    \entry{Fain2016}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a42db99bf066ce650b539a097ffbf574}{%
+           family={Fain},
+           familyi={F\bibinitperiod},
+           given={Yakov},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a42db99bf066ce650b539a097ffbf574}
+      \strng{fullhash}{a42db99bf066ce650b539a097ffbf574}
+      \strng{bibnamehash}{a42db99bf066ce650b539a097ffbf574}
+      \strng{authorbibnamehash}{a42db99bf066ce650b539a097ffbf574}
+      \strng{authornamehash}{a42db99bf066ce650b539a097ffbf574}
+      \strng{authorfullhash}{a42db99bf066ce650b539a097ffbf574}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{4}
+      \field{title}{Angular 2 and TypeScript - A High Level Overview}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.infoq.com/articles/Angular2-Typescript-High-Level-Overview
+      \endverb
+      \verb{url}
+      \verb https://www.infoq.com/articles/Angular2-Typescript-High-Level-Overview
+      \endverb
+    \endentry
+    \entry{Garbadge2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f34a81b10e24eb6d807c200c88a7aa95}{%
+           family={Garbadge},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f34a81b10e24eb6d807c200c88a7aa95}
+      \strng{fullhash}{f34a81b10e24eb6d807c200c88a7aa95}
+      \strng{bibnamehash}{f34a81b10e24eb6d807c200c88a7aa95}
+      \strng{authorbibnamehash}{f34a81b10e24eb6d807c200c88a7aa95}
+      \strng{authornamehash}{f34a81b10e24eb6d807c200c88a7aa95}
+      \strng{authorfullhash}{f34a81b10e24eb6d807c200c88a7aa95}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{12}
+      \field{title}{Top 3 most popular programming languages in 2018 (and their annual salaries)}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://hackernoon.com/top-3-most-popular-programming-languages-in-2018-and-their-annual-salaries-51b4a7354e06
+      \endverb
+      \verb{url}
+      \verb https://hackernoon.com/top-3-most-popular-programming-languages-in-2018-and-their-annual-salaries-51b4a7354e06
+      \endverb
+    \endentry
+    \entry{Gilbert2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=0d798f1e4fbc18e4cdc5574113886ee6}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d798f1e4fbc18e4cdc5574113886ee6}
+      \strng{fullhash}{0d798f1e4fbc18e4cdc5574113886ee6}
+      \strng{bibnamehash}{0d798f1e4fbc18e4cdc5574113886ee6}
+      \strng{authorbibnamehash}{0d798f1e4fbc18e4cdc5574113886ee6}
+      \strng{authornamehash}{0d798f1e4fbc18e4cdc5574113886ee6}
+      \strng{authorfullhash}{0d798f1e4fbc18e4cdc5574113886ee6}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{month}{12}
+      \field{title}{Mithril.js: A Tutorial Introduction (Part 1)}
+      \field{urlday}{2}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://gilbert.ghost.io/mithril-js-tutorial-1/
+      \endverb
+      \verb{url}
+      \verb https://gilbert.ghost.io/mithril-js-tutorial-1/
+      \endverb
+    \endentry
+    \entry{Gimeno2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b7fbb65ce15c1f7b0ae59d755296defe}{%
+           family={Gimeno},
+           familyi={G\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b7fbb65ce15c1f7b0ae59d755296defe}
+      \strng{fullhash}{b7fbb65ce15c1f7b0ae59d755296defe}
+      \strng{bibnamehash}{b7fbb65ce15c1f7b0ae59d755296defe}
+      \strng{authorbibnamehash}{b7fbb65ce15c1f7b0ae59d755296defe}
+      \strng{authornamehash}{b7fbb65ce15c1f7b0ae59d755296defe}
+      \strng{authorfullhash}{b7fbb65ce15c1f7b0ae59d755296defe}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{3}
+      \field{title}{The deepest reason why modern JavaScript frameworks exist}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445
+      \endverb
+      \verb{url}
+      \verb https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445
+      \endverb
+    \endentry
+    \entry{Hamedani2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=9326a99307db841495f6a3e087f0ad22}{%
+           family={Hamedani},
+           familyi={H\bibinitperiod},
+           given={Mosh},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9326a99307db841495f6a3e087f0ad22}
+      \strng{fullhash}{9326a99307db841495f6a3e087f0ad22}
+      \strng{bibnamehash}{9326a99307db841495f6a3e087f0ad22}
+      \strng{authorbibnamehash}{9326a99307db841495f6a3e087f0ad22}
+      \strng{authornamehash}{9326a99307db841495f6a3e087f0ad22}
+      \strng{authorfullhash}{9326a99307db841495f6a3e087f0ad22}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{month}{11}
+      \field{title}{React vs. Angular: The Complete Comparison}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://programmingwithmosh.com/react/react-vs-angular/
+      \endverb
+      \verb{url}
+      \verb https://programmingwithmosh.com/react/react-vs-angular/
+      \endverb
+    \endentry
+    \entry{Hannah2015}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=957654f7b34d561a9c87fa098d4a55b5}{%
+           family={Hannah},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{957654f7b34d561a9c87fa098d4a55b5}
+      \strng{fullhash}{957654f7b34d561a9c87fa098d4a55b5}
+      \strng{bibnamehash}{957654f7b34d561a9c87fa098d4a55b5}
+      \strng{authorbibnamehash}{957654f7b34d561a9c87fa098d4a55b5}
+      \strng{authornamehash}{957654f7b34d561a9c87fa098d4a55b5}
+      \strng{authorfullhash}{957654f7b34d561a9c87fa098d4a55b5}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{month}{4}
+      \field{title}{Choosing the Right JavaScript Framework for the Job}
+      \field{urlday}{6}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job
+      \endverb
+      \verb{url}
+      \verb https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job
+      \endverb
+    \endentry
+    \entry{Lotanna2019}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=87ac84eba3f57e5fcaedb00df827a9ac}{%
+           family={Lotanna},
+           familyi={L\bibinitperiod},
+           given={Nwose},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{87ac84eba3f57e5fcaedb00df827a9ac}
+      \strng{fullhash}{87ac84eba3f57e5fcaedb00df827a9ac}
+      \strng{bibnamehash}{87ac84eba3f57e5fcaedb00df827a9ac}
+      \strng{authorbibnamehash}{87ac84eba3f57e5fcaedb00df827a9ac}
+      \strng{authornamehash}{87ac84eba3f57e5fcaedb00df827a9ac}
+      \strng{authorfullhash}{87ac84eba3f57e5fcaedb00df827a9ac}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{month}{3}
+      \field{title}{New Angular features you didn’t know existed}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://blog.logrocket.com/new-angular-features-you-didnt-know-existed-7f292a6e7afc/
+      \endverb
+      \verb{url}
+      \verb https://blog.logrocket.com/new-angular-features-you-didnt-know-existed-7f292a6e7afc/
+      \endverb
+    \endentry
+    \entry{Mithril2019a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c05fab6ea61c6a0a73a0b483f9283942}{%
+           family={Mithril},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{fullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{bibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorbibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authornamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorfullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Components}
+      \field{urlday}{6}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mithril.js.org/components.html
+      \endverb
+      \verb{url}
+      \verb https://mithril.js.org/components.html
+      \endverb
+    \endentry
+    \entry{Mithril2019b}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c05fab6ea61c6a0a73a0b483f9283942}{%
+           family={Mithril},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{fullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{bibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorbibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authornamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorfullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Credits}
+      \field{urlday}{6}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mithril.js.org/credits.html
+      \endverb
+      \verb{url}
+      \verb https://mithril.js.org/credits.html
+      \endverb
+    \endentry
+    \entry{Mithril2019c}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c05fab6ea61c6a0a73a0b483f9283942}{%
+           family={Mithril},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{fullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{bibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorbibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authornamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorfullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction}
+      \field{urlday}{2}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mithril.js.org/
+      \endverb
+      \verb{url}
+      \verb https://mithril.js.org/
+      \endverb
+    \endentry
+    \entry{Mithril2019d}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c05fab6ea61c6a0a73a0b483f9283942}{%
+           family={Mithril},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{fullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{bibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorbibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authornamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorfullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Keys}
+      \field{urlday}{21}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mithril.js.org/keys.html
+      \endverb
+      \verb{url}
+      \verb https://mithril.js.org/keys.html
+      \endverb
+    \endentry
+    \entry{Mithril2019e}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c05fab6ea61c6a0a73a0b483f9283942}{%
+           family={Mithril},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{fullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{bibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorbibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authornamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorfullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lifecycle methods}
+      \field{urlday}{20}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mithril.js.org/lifecycle-methods.html
+      \endverb
+      \verb{url}
+      \verb https://mithril.js.org/lifecycle-methods.html
+      \endverb
+    \endentry
+    \entry{Mithril2019f}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c05fab6ea61c6a0a73a0b483f9283942}{%
+           family={Mithril},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{fullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{bibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorbibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authornamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorfullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The auto-redraw system}
+      \field{urlday}{22}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mithril.js.org/autoredraw.html
+      \endverb
+      \verb{url}
+      \verb https://mithril.js.org/autoredraw.html
+      \endverb
+    \endentry
+    \entry{Mithril2019g}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c05fab6ea61c6a0a73a0b483f9283942}{%
+           family={Mithril},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{fullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{bibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorbibnamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authornamehash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \strng{authorfullhash}{c05fab6ea61c6a0a73a0b483f9283942}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Virtual DOM nodes}
+      \field{urlday}{4}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mithril.js.org/vnodes.html
+      \endverb
+      \verb{url}
+      \verb https://mithril.js.org/vnodes.html
+      \endverb
+    \endentry
+    \entry{Occhino2013}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a256cc201b898363e493eeaa78f3538f}{%
+           family={Occhino},
+           familyi={O\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a256cc201b898363e493eeaa78f3538f}
+      \strng{fullhash}{a256cc201b898363e493eeaa78f3538f}
+      \strng{bibnamehash}{a256cc201b898363e493eeaa78f3538f}
+      \strng{authorbibnamehash}{a256cc201b898363e493eeaa78f3538f}
+      \strng{authornamehash}{a256cc201b898363e493eeaa78f3538f}
+      \strng{authorfullhash}{a256cc201b898363e493eeaa78f3538f}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{JS Apps at Facebook (JSConfUS 2013)}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=GW0j4sNH2w
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=GW0j4sNH2w
+      \endverb
+    \endentry
+    \entry{Occhino2015}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a256cc201b898363e493eeaa78f3538f}{%
+           family={Occhino},
+           familyi={O\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a256cc201b898363e493eeaa78f3538f}
+      \strng{fullhash}{a256cc201b898363e493eeaa78f3538f}
+      \strng{bibnamehash}{a256cc201b898363e493eeaa78f3538f}
+      \strng{authorbibnamehash}{a256cc201b898363e493eeaa78f3538f}
+      \strng{authornamehash}{a256cc201b898363e493eeaa78f3538f}
+      \strng{authorfullhash}{a256cc201b898363e493eeaa78f3538f}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{month}{1}
+      \field{title}{Introducing React Native (React.js Config 2015)}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=KVZ-PZI6W4
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=KVZ-PZI6W4
+      \endverb
+    \endentry
+    \entry{React2019c}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=50ce2da63bea6a618e7578fa50690040}{%
+           family={React},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{fullhash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{bibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorbibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authornamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorfullhash}{50ce2da63bea6a618e7578fa50690040}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Components and Props}
+      \field{urlday}{22}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://reactjs.org/docs/components-and-props.html
+      \endverb
+      \verb{url}
+      \verb https://reactjs.org/docs/components-and-props.html
+      \endverb
+    \endentry
+    \entry{React2019k}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=50ce2da63bea6a618e7578fa50690040}{%
+           family={React},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{fullhash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{bibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorbibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authornamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorfullhash}{50ce2da63bea6a618e7578fa50690040}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Composition vs Inheritance}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://reactjs.org/docs/composition-vs-inheritance.html
+      \endverb
+      \verb{url}
+      \verb https://reactjs.org/docs/composition-vs-inheritance.html
+      \endverb
+    \endentry
+    \entry{React2019g}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=50ce2da63bea6a618e7578fa50690040}{%
+           family={React},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{fullhash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{bibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorbibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authornamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorfullhash}{50ce2da63bea6a618e7578fa50690040}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Conditional rendering}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://reactjs.org/docs/conditional-rendering.html
+      \endverb
+      \verb{url}
+      \verb https://reactjs.org/docs/conditional-rendering.html
+      \endverb
+    \endentry
+    \entry{React2019i}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=50ce2da63bea6a618e7578fa50690040}{%
+           family={React},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{fullhash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{bibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorbibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authornamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorfullhash}{50ce2da63bea6a618e7578fa50690040}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Forms}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://reactjs.org/docs/forms.html
+      \endverb
+      \verb{url}
+      \verb https://reactjs.org/docs/forms.html
+      \endverb
+    \endentry
+    \entry{React2019f}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=50ce2da63bea6a618e7578fa50690040}{%
+           family={React},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{fullhash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{bibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorbibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authornamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorfullhash}{50ce2da63bea6a618e7578fa50690040}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Handling events}
+      \field{urlday}{22}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://reactjs.org/docs/handling-events.html
+      \endverb
+      \verb{url}
+      \verb https://reactjs.org/docs/handling-events.html
+      \endverb
+    \endentry
+    \entry{React2019a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=50ce2da63bea6a618e7578fa50690040}{%
+           family={React},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{fullhash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{bibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorbibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authornamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorfullhash}{50ce2da63bea6a618e7578fa50690040}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introducing JSX}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://reactjs.org/docs/introducing-jsx.html
+      \endverb
+      \verb{url}
+      \verb https://reactjs.org/docs/introducing-jsx.html
+      \endverb
+    \endentry
+    \entry{React2019j}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=50ce2da63bea6a618e7578fa50690040}{%
+           family={React},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{fullhash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{bibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorbibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authornamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorfullhash}{50ce2da63bea6a618e7578fa50690040}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lifting State Up}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://reactjs.org/docs/lifting-state-up.html
+      \endverb
+      \verb{url}
+      \verb https://reactjs.org/docs/lifting-state-up.html
+      \endverb
+    \endentry
+    \entry{React2019h}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=50ce2da63bea6a618e7578fa50690040}{%
+           family={React},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{fullhash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{bibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorbibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authornamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorfullhash}{50ce2da63bea6a618e7578fa50690040}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lists and Keys}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://reactjs.org/docs/lists-and-keys.html
+      \endverb
+      \verb{url}
+      \verb https://reactjs.org/docs/lists-and-keys.html
+      \endverb
+    \endentry
+    \entry{React2019b}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=50ce2da63bea6a618e7578fa50690040}{%
+           family={React},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{fullhash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{bibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorbibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authornamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorfullhash}{50ce2da63bea6a618e7578fa50690040}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rendering Elements}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://reactjs.org/docs/rendering-elements.html
+      \endverb
+      \verb{url}
+      \verb https://reactjs.org/docs/rendering-elements.html
+      \endverb
+    \endentry
+    \entry{React2019d}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=50ce2da63bea6a618e7578fa50690040}{%
+           family={React},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{fullhash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{bibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorbibnamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authornamehash}{50ce2da63bea6a618e7578fa50690040}
+      \strng{authorfullhash}{50ce2da63bea6a618e7578fa50690040}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{10}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{State and lifecycle}
+      \field{urlday}{22}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://reactjs.org/docs/state-and-lifecycle.html
+      \endverb
+      \verb{url}
+      \verb https://reactjs.org/docs/state-and-lifecycle.html
+      \endverb
+    \endentry
+    \entry{Schlothauer2019}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=94420e1263723c52e71285616ca8ccb1}{%
+           family={Schlothauer},
+           familyi={S\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{94420e1263723c52e71285616ca8ccb1}
+      \strng{fullhash}{94420e1263723c52e71285616ca8ccb1}
+      \strng{bibnamehash}{94420e1263723c52e71285616ca8ccb1}
+      \strng{authorbibnamehash}{94420e1263723c52e71285616ca8ccb1}
+      \strng{authornamehash}{94420e1263723c52e71285616ca8ccb1}
+      \strng{authorfullhash}{94420e1263723c52e71285616ca8ccb1}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{3}
+      \field{title}{React steadily grows, while Angular maintains enterprise hold}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://jaxenter.com/react-angular-enterprise-156725.html
+      \endverb
+      \verb{url}
+      \verb https://jaxenter.com/react-angular-enterprise-156725.html
+      \endverb
+    \endentry
+    \entry{Shan2015}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b28883d26bc8f0edfae9dc122c1d900b}{%
+           family={Shan},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b28883d26bc8f0edfae9dc122c1d900b}
+      \strng{fullhash}{b28883d26bc8f0edfae9dc122c1d900b}
+      \strng{bibnamehash}{b28883d26bc8f0edfae9dc122c1d900b}
+      \strng{authorbibnamehash}{b28883d26bc8f0edfae9dc122c1d900b}
+      \strng{authornamehash}{b28883d26bc8f0edfae9dc122c1d900b}
+      \strng{authorfullhash}{b28883d26bc8f0edfae9dc122c1d900b}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{month}{11}
+      \field{title}{What's new in Angular 2.0? Why it's rewritten - addressing few confusions}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://voidcanvas.com/angular-2-introduction
+      \endverb
+      \verb{url}
+      \verb http://voidcanvas.com/angular-2-introduction
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{REFERENCE}
+\endrefsection
+\endinput
+

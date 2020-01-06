@@ -5,9 +5,69 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Aantal downloads van Angular in vergelijking met React via npm in de afgelopen 6 maanden. Deze statistieken zijn te vinden op de website van npmtrends.\footnotemark . }}{16}{figure.2.1}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Dit diagram stelt een visuele referentie voor van de lifecycle methodes van een React component. Screenshot genomen op http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/\relax }}{30}{figure.caption.6}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces De nodige commands om een nieuwe applicatie op te zetten.\relax }}{50}{figure.caption.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Angular setup}}}{50}{subfigure.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {React setup}}}{50}{subfigure.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Mithril setup }}}{50}{subfigure.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces De \texttt {start} entry in het \texttt {scripts} object binnen \texttt {package.json}.\relax }}{50}{figure.caption.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces De code nodig binnen het \texttt {src/index.js} bestand om 'hello world' weer te geven.\relax }}{50}{figure.caption.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces De HTML binnen het \texttt {index.html} bestand.\relax }}{51}{figure.caption.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces De architecturen na het opzetten van een nieuwe applicatie.\relax }}{51}{figure.caption.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Angular}}}{51}{subfigure.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {React}}}{51}{subfigure.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Mithril}}}{51}{subfigure.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces De ''Hello World!'' DOM-structuren nadat tekst werd weergegeven via componenten.\relax }}{52}{figure.caption.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Angular}}}{52}{subfigure.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {React}}}{52}{subfigure.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Mithril}}}{52}{subfigure.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces De grootte van de applicaties kan bekeken worden door het commando \texttt {du -sh *} uit te voeren.\relax }}{52}{figure.caption.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Componenten met hun ''Hello World!'' template.\relax }}{53}{figure.caption.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Angular}}}{53}{subfigure.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {React}}}{53}{subfigure.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Mithril}}}{53}{subfigure.8.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Resultaten van de testen in verband met snelheid (in milliseconden).\relax }}{55}{figure.caption.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {1000 componenten aanmaken}}}{55}{subfigure.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {1000 componenten updaten}}}{55}{subfigure.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Elke tiende component updaten}}}{55}{subfigure.9.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Elke tiende component verwijderen}}}{55}{subfigure.9.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Startup + 1000 componenten aanmaken}}}{55}{subfigure.9.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Het gemeten geheugenverbruik bij het opstarten en het cre\IeC {\"e}ren van 1000 componenten (in B).\relax }}{56}{figure.caption.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces De grafiek in verband met populariteit die gegenereerd werd door Google Trends.\relax }}{56}{figure.caption.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.12}{\ignorespaces De grafiek in verband met popularteit die gegenereerd werd door npm trends. \relax }}{57}{figure.caption.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.13}{\ignorespaces De grafiek in verband met populariteit die gegenereerd werd door StackOverflow Trends.\relax }}{58}{figure.caption.23}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 

@@ -5,32 +5,50 @@
 \chapter{\IfLanguageName{dutch}{Inleiding}{Introduction}}
 \label{ch:inleiding}
 
-De inleiding moet de lezer net genoeg informatie verschaffen om het onderwerp te begrijpen en in te zien waarom de onderzoeksvraag de moeite waard is om te onderzoeken. In de inleiding ga je literatuurverwijzingen beperken, zodat de tekst vlot leesbaar blijft. Je kan de inleiding verder onderverdelen in secties als dit de tekst verduidelijkt. Zaken die aan bod kunnen komen in de inleiding~\autocite{Pollefliet2011}:
-
+Tegenwoordig worden vaak frameworks en bibliotheken zoals Angular, React en Vue gebruikt in web development. Deze voorzien veel interessante zaken, maar de echte reden waarom deze bestaan is niet:
 \begin{itemize}
-  \item context, achtergrond
-  \item afbakenen van het onderwerp
-  \item verantwoording van het onderwerp, methodologie
-  \item probleemstelling
-  \item onderzoeksdoelstelling
-  \item onderzoeksvraag
-  \item \ldots
+    \item Ze zijn gebaseerd op componenten.
+    \item Ze hebben een grote community.
+    \item Ze hebben veel externe bibliotheken om zaken af te handelen.
+    \item Ze hebben vele externe componenten.
+    \item Ze hebben extenties voor de browser die helpen bij het debuggen.
+    \item Ze zijn goed om SPA's te maken.
 \end{itemize}
+Deze zaken helpen allemaal met tijd besparen, het wiel moet niet elke keer opnieuw uitgevonden worden. Maar dat is niet de belangrijkste reden. Eerder, de meest essentiële, meest diepliggende reden voor hun bestaan is om de UI gesynchroniseerd te houden met de state. In vanilla JavaScript is het grootste probleem het steeds updaten van de UI bij elke verandering in de state. Om de UI synchroon te houden met de data, moet er veel vervelende en fragile code geschreven worden. \autocite{Gimeno2018}
+
+JavaScript frameworks en bibliotheken worden steeds meer populair. Developers moeten moeilijke keuzen maken om te bepalen waar ze op willen focussen. Het idee om maandenlang een framework aan te leren dat uiteindelijk niet voldoet, is niet erg aantrekkelijk. Laat staan dat het resultaat dan een applicatie in productie is, die dan moet worden onderhouden. \autocite{Hannah2015}
+
+
+
+Binnen de JavaScript frameworks en bibliotheken zijn er twee manieren waarop de UI automatisch updatet. Als eerste kan de volledige component opnieuw weergegeven worden. Wanneer een state verandert, wordt een virtueel DOM in het geheugen gemaakt en vergeleken met de vorige snapshot van het virtueel DOM. Daarna worden enkel de veranderingen berekend en doorgevoerd naar het echte DOM. Aan de andere kant kunnen observers gebruikt worden om aanpassingen waar te nemen. Variabelen worden geobserveerd en wanneer ze veranderen, worden alleen de DOM-elementen waarbij deze variabelen betrokken zijn, bijgewerkt. \autocite{Gimeno2018}
 
 \section{\IfLanguageName{dutch}{Probleemstelling}{Problem Statement}}
 \label{sec:probleemstelling}
 
-Uit je probleemstelling moet duidelijk zijn dat je onderzoek een meerwaarde heeft voor een concrete doelgroep. De doelgroep moet goed gedefinieerd en afgelijnd zijn. Doelgroepen als ``bedrijven,'' ``KMO's,'' systeembeheerders, enz.~zijn nog te vaag. Als je een lijstje kan maken van de personen/organisaties die een meerwaarde zullen vinden in deze bachelorproef (dit is eigenlijk je steekproefkader), dan is dat een indicatie dat de doelgroep goed gedefinieerd is. Dit kan een enkel bedrijf zijn of zelfs één persoon (je co-promotor/opdrachtgever).
+Angular en React zijn enkele van de meest opvallende en populaire JavaScript frameworks of bibliotheken. In deze thesis worden ze vergeleken met een minder bekend, minder populair framework namelijk Mithril. 
+
+Er zijn tegenwoordig veel JavaScript frameworks en bibliotheken, waardoor het voor ontwikkelaars moeilijk wordt om de juiste te kiezen voor hun applicatie. Deze bachelorproef dient om deze personen te helpen in hun keuze wanneer ze twijfelen tussen Angular, React of Mithril.
 
 \section{\IfLanguageName{dutch}{Onderzoeksvraag}{Research question}}
 \label{sec:onderzoeksvraag}
 
-Wees zo concreet mogelijk bij het formuleren van je onderzoeksvraag. Een onderzoeksvraag is trouwens iets waar nog niemand op dit moment een antwoord heeft (voor zover je kan nagaan). Het opzoeken van bestaande informatie (bv. ``welke tools bestaan er voor deze toepassing?'') is dus geen onderzoeksvraag. Je kan de onderzoeksvraag verder specifiëren in deelvragen. Bv.~als je onderzoek gaat over performantiemetingen, dan 
+In deze bachelorproef willen we de voor- en nadelen van de drie technologieën analyseren en -indien mogelijk- de beste keuze voorschrijven voor bepaalde soorten applicaties.
+
+Bij dit onderzoek stellen we ons de vraag: Welke aspecten zijn belangrijk in de keuze tussen Angular, React en Mithril.
+
+Aangezien deze onderzoeksvraag nogal breed is, wordt deze opgesplitst in enkele deelvragen:
+\begin{itemize}
+    \item Wat zijn de gemeenschappelijke aspecten tussen Angular, React en Mithril?
+    \item Wat zijn de voornaamste verschillen tussen Angular, React en Mithril?
+    \item Welk framework of welke bibliotheek biedt de hoogste performantie?
+    \item Welk is het meest populaire framework of bibliotheek?
+    \item Welk framework of welke bibliotheek is beter geschikt voor specifieke gevallen?
+\end{itemize}
 
 \section{\IfLanguageName{dutch}{Onderzoeksdoelstelling}{Research objective}}
 \label{sec:onderzoeksdoelstelling}
 
-Wat is het beoogde resultaat van je bachelorproef? Wat zijn de criteria voor succes? Beschrijf die zo concreet mogelijk. Gaat het bv. om een proof-of-concept, een prototype, een verslag met aanbevelingen, een vergelijkende studie, enz.
+Het doel van deze bachelorproef is het bepalen van het beste framework of bibliotheek in bepaalde gevallen. De technologieën zullen vergeleken worden en op basis van de resultaten zal -indien mogelijk- een lijst met aanbevelingen per situatie gemaakt worden.
 
 \section{\IfLanguageName{dutch}{Opzet van deze bachelorproef}{Structure of this bachelor thesis}}
 \label{sec:opzet-bachelorproef}
@@ -43,8 +61,8 @@ De rest van deze bachelorproef is als volgt opgebouwd:
 
 In Hoofdstuk~\ref{ch:stand-van-zaken} wordt een overzicht gegeven van de stand van zaken binnen het onderzoeksdomein, op basis van een literatuurstudie.
 
-In Hoofdstuk~\ref{ch:methodologie} wordt de methodologie toegelicht en worden de gebruikte onderzoekstechnieken besproken om een antwoord te kunnen formuleren op de onderzoeksvragen.
+In Hoofdstuk~\ref{ch:methodologie} wordt de methodologie toegelicht en worden de gebruikte onderzoekstechnieken besproken om de onderzoeksvraag te beantwoorden.
 
 % TODO: Vul hier aan voor je eigen hoofstukken, één of twee zinnen per hoofdstuk
 
-In Hoofdstuk~\ref{ch:conclusie}, tenslotte, wordt de conclusie gegeven en een antwoord geformuleerd op de onderzoeksvragen. Daarbij wordt ook een aanzet gegeven voor toekomstig onderzoek binnen dit domein.
+Tot slot wordt in Hoofdstuk~\ref{ch:conclusie} de conclusie gegeven, een antwoord geformuleerd op de onderzoeksvraag en indien mogelijk een lijst met aanbevelingen opgesteld. 

@@ -1,48 +1,20 @@
-This is BibTeX, Version 0.99d (TeX Live 2018)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: bachproef-tin.aux
-I found no \citation commands---while reading file bachproef-tin.aux
-I found no \bibdata command---while reading file bachproef-tin.aux
-I found no \bibstyle command---while reading file bachproef-tin.aux
-You've used 0 entries,
-            0 wiz_defined-function locations,
-            83 strings with 500 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
-quote$ -- 0
-skip$ -- 0
-stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'bachproef-tin.blg'
+[49] biber-darwin:313> INFO - === Mon Jan  6, 2020, 14:22:04
+[86] Biber.pm:371> INFO - Reading 'bachproef-tin.bcf'
+[180] Biber.pm:857> INFO - Found 40 citekeys in bib section 0
+[194] Biber.pm:3976> INFO - Processing section 0
+[206] Biber.pm:4136> INFO - Looking for bibtex format file 'bachproef-tin.bib' for section 0
+[208] bibtex.pm:1500> INFO - LaTeX decoding ...
+[240] bibtex.pm:1316> INFO - Found BibTeX data source 'bachproef-tin.bib'
+[343] Biber.pm:4136> INFO - Looking for bibtex format file '../voorstel/voorstel.bib' for section 0
+[345] bibtex.pm:1500> INFO - LaTeX decoding ...
+[352] bibtex.pm:1316> INFO - Found BibTeX data source '../voorstel/voorstel.bib'
+[371] Utils.pm:193> WARN - I didn't find a database entry for 'REFERENCE' (section 0)
+[427] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[428] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[428] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[428] Biber.pm:3810> INFO - No sort tailoring available for locale 'nl-NL'
+[487] bbl.pm:617> INFO - Writing 'bachproef-tin.bbl' with encoding 'UTF-8'
+[508] bbl.pm:720> INFO - Output to bachproef-tin.bbl
+[509] Biber.pm:110> INFO - WARNINGS: 1

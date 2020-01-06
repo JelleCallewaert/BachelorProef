@@ -6,8 +6,18 @@
 \contentsline {section}{\numberline {2}State-of-the-art}{1}{section.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Methodologie}{1}{section.3}
-\contentsfinish 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Snelheid van compilatie}{2}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Prestatie in runtime}{2}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Eenvoud}{2}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{2}{section.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Verwachte resultaten}{2}{section.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5}Verwachte conclusies}{2}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Referenties}{2}{section*.1}
+\contentsfinish 

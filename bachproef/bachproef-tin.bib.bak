@@ -1,0 +1,154 @@
+% Encoding: UTF-8
+
+@Online{Redondo2017,
+  author  = {Redondo, Félix},
+  title   = {The TIOBE Index: How do you measure which programming languages are the most used?},
+  date    = {2017-03-20},
+  url     = {https://en.paradigmadigital.com/dev/tiobe-index-measure-programming-languages-used/},
+  urldate = {2019-03-27},
+}
+
+@Online{Hamedani2018,
+  author  = {Hamedani, Mosh},
+  title   = {React vs. Angular: The Complete Comparison},
+  date    = {2018-11-05},
+  url     = {https://programmingwithmosh.com/react/react-vs-angular/},
+  urldate = {2019-04-03},
+}
+
+@Book{Baer2018,
+  author    = {Baer, Eric},
+  title     = {What is React and why it matters},
+  year      = {2018},
+  publisher = {O'Reilly Media, Inc},
+  urldate   = {2019-04-05},
+  address   = {Sebastopol, California, United States},
+}
+
+@Online{Sridhar2017,
+  author  = {Jay Sridhar},
+  title   = {What is JavaScript and how does it work?},
+  date    = {2017-10-02},
+  url     = {https://www.makeuseof.com/tag/what-is-javascript/},
+  urldate = {2019-03-02},
+}
+
+@Online{Fain2016,
+  author  = {Yakov Fain},
+  title   = {Angular 2 and TypeScript - A High Level Overview},
+  date    = {2016-04-26},
+  url     = {https://www.infoq.com/articles/Angular2-Typescript-High-Level-Overview},
+  urldate = {2019-05-20},
+}
+
+@Online{Shan2015,
+  author  = {Shan, Paul},
+  title   = {What's new in Angular 2.0? Why it's rewritten - addressing few confusions},
+  date    = {2015-11-21},
+  url     = {http://voidcanvas.com/angular-2-introduction},
+  urldate = {2019-05-20},
+}
+
+@Online{Mozilla2018,
+  author  = {{Mozilla}},
+  title   = {JavaScript},
+  year    = {2018},
+  url     = {https://developer.mozilla.org/en-US/docs/Web/JavaScript},
+  urldate = {2019-05-21},
+}
+
+@Online{Clark2017,
+  author  = {Clark, Lin},
+  title   = {A crash course in just-in-time (JIT) compilers},
+  date    = {2017-02-28},
+  url     = {https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/},
+  urldate = {2019-04-05},
+}
+
+@Online{Peyrott2017,
+  author  = {Peyrott, Sebastian},
+  title   = {A Brief History of JavaScript},
+  date    = {2017-01-27},
+  url     = {https://auth0.com/blog/a-brief-history-of-javascript/},
+  urldate = {2019-03-30},
+}
+
+@Online{Domes2017,
+  author  = {Domes, Scott},
+  title   = {Everything You Should Know About React: The Basics You Need to Start Building},
+  date    = {2017-11-13},
+  url     = {https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4},
+  urldate = {2019-04-05},
+}
+
+@Online{Occhino2015,
+  author  = {Occhino, Tom},
+  title   = {Introducing React Native (React.js Config 2015)},
+  date    = {2015-01-28},
+  url     = {https://www.youtube.com/watch?v=KVZ-PZI6W4},
+  urldate = {2019-05-21},
+}
+
+@Online{Occhino2013,
+  author  = {Occhino, Tom},
+  title   = {JS Apps at Facebook (JSConfUS 2013)},
+  year    = {2013},
+  url     = {https://www.youtube.com/watch?v=GW0j4sNH2w},
+  urldate = {2019-05-22},
+}
+
+@Online{Angular2019,
+  author  = {Angular},
+  title   = {Architecture overview},
+  year    = {2019},
+  url     = {https://angular.io/guide/architecture},
+  urldate = {2019-05-20},
+}
+
+@Online{Angular2019a,
+  author  = {Angular},
+  title   = {Introduction to modules},
+  year    = {2019},
+  url     = {https://angular.io/guide/architecture-modules},
+  urldate = {2019-05-20},
+}
+
+@Online{Angular2019b,
+  author  = {Angular},
+  title   = {Component},
+  year    = {2019},
+  url     = {https://angular.io/api/core/Component},
+  urldate = {2019-05-20},
+}
+
+@Online{Angular2019c,
+  author  = {Angular},
+  title   = {Introduction to services and dependency injection},
+  year    = {2019},
+  url     = {https://angular.io/guide/architecture-services},
+  urldate = {2019-05-20},
+}
+
+@Online{Angular2019d,
+  author  = {Angular},
+  title   = {Dependency Injection in Angular},
+  year    = {2019},
+  url     = {https://angular.io/guide/dependency-injection},
+  urldate = {2019-05-20},
+}
+
+@Online{React2019a,
+  author = {React},
+  title  = {Rendering Elements},
+  year   = {2019},
+  url    = {https://reactjs.org/docs/rendering-elements.html},
+}
+
+@Online{React2019,
+  author = {React},
+  title  = {Introducing JSX},
+  year   = {2019},
+  url    = {https://reactjs.org/docs/introducing-jsx.html},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

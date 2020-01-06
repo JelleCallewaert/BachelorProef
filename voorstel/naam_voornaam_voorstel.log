@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.14)  15 FEB 2019 18:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.14)  14 OCT 2019 19:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -888,8 +888,8 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `naam_voornaam_voorstel.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'naam_voornaam_voorstel.bbl' not found.
-No file naam_voornaam_voorstel.bbl.
+Package biblatex Info: ... file 'naam_voornaam_voorstel.bbl' found.
+(./naam_voornaam_voorstel.bbl)
 Package biblatex Info: Reference section=0 on input line 69.
 Package biblatex Info: Reference segment=0 on input line 69.
 LaTeX Info: Redefining \microtypecontext on input line 69.
@@ -902,6 +902,7 @@ Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
+
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
@@ -973,9 +974,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 73.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 73.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 73.
+
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 73.
-
 (./naam_voornaam_voorstel.toc
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 4.
@@ -988,38 +992,21 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 3.
-
-
-LaTeX Warning: Citation 'Richard2016' on page 1 undefined on input line 6.
-
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 20.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 20.
-
-LaTeX Warning: Citation 'Hackernoon2018' on page 1 undefined on input line 23.
-
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 25.
+
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
-
-
-LaTeX Warning: Citation 'FreeCodeCamp2018' on page 1 undefined on input line 32
-.
-
-
-Overfull \hbox (56.22557pt too wide) in paragraph at lines 32--33
-\OT1/ptm/m/n/10 (-20) schil-len tus-sen Re-act en An-gu-lar be-na-de-ren, zo-al
-s ([]),
- []
-
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 53.
 Package babel Info: Redefining dutch shorthand "~
@@ -1028,25 +1015,27 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 53.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 53.
-[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 68.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 68.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 74.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 74.
+(babel)             in language  on input line 78.
 )
-
-LaTeX Warning: Empty bibliography on input line 93.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 93.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 93.
 
 
 AED: lastpage setting LastPage
-<HOGENT_Logo_Pos_rgb.png, id=47, 3503.0875pt x 1975.38pt>
+<HOGENT_Logo_Pos_rgb.png, id=69, 3503.0875pt x 1975.38pt>
 File: HOGENT_Logo_Pos_rgb.png Graphic file (type png)
 <use HOGENT_Logo_Pos_rgb.png>
 Package pdftex.def Info: HOGENT_Logo_Pos_rgb.png  used on input line 95.
@@ -1065,9 +1054,7 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 95.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 95.
-[2
-
- <./HOGENT_Logo_Pos_rgb.png>]
+[2 <./HOGENT_Logo_Pos_rgb.png>]
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 95.
 Package babel Info: Redefining dutch shorthand "~
@@ -1079,38 +1066,28 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
 Package rerunfilecheck Info: File `naam_voornaam_voorstel.out' has not changed.
 
-(rerunfilecheck)             Checksum: D3D4A775DBFA79F743744AB281DD86C0;254.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                naam_voornaam_voorstel
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 548138F6530B578FE3568F67514076FC;301.
 Package logreq Info: Writing requests to 'naam_voornaam_voorstel.run.xml'.
 \openout1 = `naam_voornaam_voorstel.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18943 strings out of 492649
- 312110 string characters out of 6129621
- 968876 words of memory out of 5000000
- 22416 multiletter control sequences out of 15000+600000
- 57659 words of font info for 189 fonts, out of 8000000 for 9000
+ 19019 strings out of 492649
+ 313837 string characters out of 6129621
+ 972031 words of memory out of 5000000
+ 22472 multiletter control sequences out of 15000+600000
+ 57078 words of font info for 197 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,14n,53p,1041b,3825s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,14n,54p,925b,3825s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
 018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2018/tex
-mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fo
-nts/type1/urw/times/utmr8a.pfb>
-Output written on naam_voornaam_voorstel.pdf (2 pages, 150924 bytes).
+mf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on naam_voornaam_voorstel.pdf (2 pages, 146376 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 47150 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
+ 47158 words of extra memory for PDF output out of 51595 (max. 10000000)
 

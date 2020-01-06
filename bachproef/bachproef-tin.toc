@@ -1,31 +1,297 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {dutch}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Inleiding}{13}{chapter.1}
+\contentsline {chapter}{\numberline {1}Inleiding}{15}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Probleemstelling}{13}{section.1.1}
+\contentsline {section}{\numberline {1.1}Probleemstelling}{16}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Onderzoeksvraag}{14}{section.1.2}
+\contentsline {section}{\numberline {1.2}Onderzoeksvraag}{16}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{14}{section.1.3}
+\contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{16}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{14}{section.1.4}
+\contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{17}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Stand van zaken}{15}{chapter.2}
+\contentsline {chapter}{\numberline {2}Stand van zaken}{19}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Methodologie}{21}{chapter.3}
+\contentsline {section}{\numberline {2.1}Angular}{19}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusie}{23}{chapter.4}
+\contentsline {subsection}{\numberline {2.1.1}Inleiding}{20}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{25}{appendix.A}
+\contentsline {subsection}{\numberline {2.1.2}Modules}{21}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Introductie}{25}{section.A.1}
+\contentsline {subsection}{\numberline {2.1.3}Componenten}{22}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}State-of-the-art}{26}{section.A.2}
+\contentsline {subsection}{\numberline {2.1.4}Services en DI}{23}{subsection.2.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.3}Methodologie}{26}{section.A.3}
+\contentsline {subsection}{\numberline {2.1.5}Samenwerking}{24}{subsection.2.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{27}{section.A.4}
+\contentsline {section}{\numberline {2.2}React}{25}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.5}Verwachte conclusies}{27}{section.A.5}
+\contentsline {subsection}{\numberline {2.2.1}JSX}{25}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.1}Redenen voor JSX}{26}{subsubsection.2.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.2}Expressies insluiten in JSX}{26}{subsubsection.2.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.3}JSX is ook een expressie}{26}{subsubsection.2.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.4}Attributen specifi\IeC {\"e}ren met JSX}{26}{subsubsection.2.2.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.5}JSX voorkomt injectie aanvallen}{26}{subsubsection.2.2.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.6}JSX stelt objecten voor}{27}{subsubsection.2.2.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Elementen weergeven}{27}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2.1}Elementen weergeven in het DOM}{27}{subsubsection.2.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2.2}Een weergegeven element updaten}{27}{subsubsection.2.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2.3}React updatet enkel de nodige zaken}{27}{subsubsection.2.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Componenten en props}{27}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3.1}Functie en klasse componenten}{28}{subsubsection.2.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3.2}Een component weergeven}{28}{subsubsection.2.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3.3}Componenten samenstellen}{28}{subsubsection.2.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3.4}Componenten extraheren}{28}{subsubsection.2.2.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3.5}Read-only props}{28}{subsubsection.2.2.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}State en levenscyclus}{29}{subsection.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.4.1}Lokale state toevoegen aan een klasse}{29}{subsubsection.2.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{setState()}{29}{subsubsection.2.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{forceUpdate()}{29}{subsubsection.2.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.4.2}Lifecycle methodes toevoegen aan een klasse}{29}{subsubsection.2.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{render()}{30}{figure.caption.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{constructor()}{31}{figure.caption.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{componentDidMount()}{31}{figure.caption.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{componentDidUpdate()}{31}{figure.caption.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{componentWillUnmount()}{32}{figure.caption.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Zelden gebruikte lifecycle methodes}{32}{figure.caption.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.4.3}State correct gebruiken}{32}{subsubsection.2.2.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Wijzig state niet rechtstreeks}{32}{subsubsection.2.2.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{State updates kunnen asynchroon zijn}{32}{subsubsection.2.2.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{State updates zijn samengevoegd}{32}{subsubsection.2.2.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.4.4}De data vloeit naar beneden}{33}{subsubsection.2.2.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.5}Events afhandelen}{33}{subsection.2.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.5.1}Argumenten meegeven aan event handlers}{34}{subsubsection.2.2.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.6}Conditionele weergave}{34}{subsection.2.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.6.1}Elementen als variabelen}{34}{subsubsection.2.2.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.6.2}Inline 'if' met de logische '\&\&' operator}{34}{subsubsection.2.2.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.6.3}Inline 'if-else' met de conditionele operator}{34}{subsubsection.2.2.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.6.4}Voorkomen dat componenten weergegeven worden}{35}{subsubsection.2.2.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.7}Lijsten en sleutels}{35}{subsection.2.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.7.1}Meerdere componenten weergeven}{35}{subsubsection.2.2.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.7.2}Een basische lijst component}{35}{subsubsection.2.2.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.7.3}Sleutels}{35}{subsubsection.2.2.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.7.4}Sleutels moeten enkel uniek zijn binnen de array}{36}{subsubsection.2.2.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.7.5}Map() insluiten in JSX}{36}{subsubsection.2.2.7.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.8}Formulieren}{36}{subsection.2.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.8.1}Gecontroleerde componenten}{36}{subsubsection.2.2.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.8.2}De textarea tag}{37}{subsubsection.2.2.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.8.3}De select tag}{37}{subsubsection.2.2.8.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.8.4}De file input tag}{37}{subsubsection.2.2.8.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.8.5}Meerdere inputs behandelen}{37}{subsubsection.2.2.8.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.8.6}Alternatieven voor gecontroleerde componenten}{37}{subsubsection.2.2.8.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.9}State naar boven verheffen}{37}{subsection.2.2.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.10}Compositie versus overerving}{38}{subsection.2.2.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.10.1}Insluiting}{38}{subsubsection.2.2.10.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.10.2}Specialisatie}{38}{subsubsection.2.2.10.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.10.3}Wat met overerving?}{38}{subsubsection.2.2.10.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Mithril.js}{39}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Virtuele DOM nodes}{39}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1.1}Virtueel DOM}{39}{subsubsection.2.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1.2}Basis}{39}{subsubsection.2.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1.3}Structuur}{39}{subsubsection.2.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1.4}Soorten vnodes}{39}{subsubsection.2.3.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1.5}Monomorfe klasse}{41}{subsubsection.2.3.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1.6}Anti-patterns vermijden}{41}{subsubsection.2.3.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Componenten}{41}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2.1}Structuur}{41}{subsubsection.2.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2.2}Lifecycle methodes}{41}{subsubsection.2.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2.3}Data meegeven aan componenten}{42}{subsubsection.2.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2.4}State}{42}{subsubsection.2.3.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Closure component state}{42}{subsubsection.2.3.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{POJO component state}{42}{subsubsection.2.3.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2.5}Klassen}{42}{subsubsection.2.3.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2.6}Gemixte soorten componenten}{43}{subsubsection.2.3.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2.7}Speciale attributen}{43}{subsubsection.2.3.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2.8}Anti-patterns vermijden}{43}{subsubsection.2.3.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{'Fat' componenten vermijden}{43}{subsubsection.2.3.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{vnode.attrs niet meegeven andere componenten}{43}{subsubsection.2.3.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Vermijd het maken van component definities in views}{44}{subsubsection.2.3.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Vermijd het maken van component instanties buiten views}{44}{subsubsection.2.3.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Lifecycle methodes}{44}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.3.1}Gebruik}{44}{subsubsection.2.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.3.2}De levenscyclus van een DOM element}{44}{subsubsection.2.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Oninit}{44}{subsubsection.2.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Oncreate}{45}{subsubsection.2.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Onupdate}{45}{subsubsection.2.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Onbeforeremove}{45}{subsubsection.2.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Onremove}{45}{subsubsection.2.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Onbeforeupdate}{46}{subsubsection.2.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.4}Keys}{46}{subsection.2.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.4.1}Gebruik}{46}{subsubsection.2.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.4.2}Single-child keyed fragmenten}{46}{subsubsection.2.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.4.3}Key gerelateerde problemen debuggen}{47}{subsubsection.2.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Vermijd wrapper elementen rond keyed elementen}{47}{subsubsection.2.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Vermijd het verbergen van keys in component root elementen}{47}{subsubsection.2.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Vermijd het wrappen van keyed elementen in arrays}{47}{subsubsection.2.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Vermijd variabele types}{47}{subsubsection.2.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Vermijd het gebruik van keyed en niet-keyed vnodes in dezelfde array}{47}{subsubsection.2.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Vermijd het doorgeven van model data direct naar de component wanneer het model key gebruikt als data property}{47}{subsubsection.2.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.5}Het auto-redraw systeem}{48}{subsection.2.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.5.1}Na event handlers}{48}{subsubsection.2.3.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.5.2}Na m.request}{48}{subsubsection.2.3.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.5.3}Na een verandering in route}{48}{subsubsection.2.3.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Methodologie}{49}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Overzicht}{49}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Installatie en indeling}{49}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.1.1}Installatie}{49}{subsubsection.3.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.1.2}Indeling}{50}{subsubsection.3.1.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Grootte}{52}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Functionaliteiten}{53}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Componenten en templates}{53}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Prestaties}{53}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2.1}Testgevallen}{53}{subsubsection.3.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2.2}Technische aspecten}{54}{subsubsection.3.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2.3}Snelheid}{54}{subsubsection.3.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2.4}Geheugenverbruik}{54}{subsubsection.3.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}Populariteit}{55}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.1}Google Trends}{55}{subsubsection.3.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.2}npm trends}{57}{subsubsection.3.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.3}GitHub statistieken}{57}{subsubsection.3.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.4}StackOverflow trends}{57}{subsubsection.3.2.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Conclusie}{59}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{61}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Introductie}{61}{section.A.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}State-of-the-art}{62}{section.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Methodologie}{62}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Snelheid van compilatie}{62}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Prestatie in runtime}{62}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Eenvoud}{63}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{63}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{63}{section.A.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{63}{section.A.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografie}{65}{appendix*.24}
 \contentsfinish 
